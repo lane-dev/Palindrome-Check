@@ -1,0 +1,30 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 2em;
+  padding: 18em;
+  font-family: sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#root {
+  text-align: center;
+  height: 200px;
+  line-height: 150px;
+}
+
+h1 {
+  font: 3em Arial;
+  margin: 1em;
+}
+
+.thebox {
+  border: 1px solid;
+}

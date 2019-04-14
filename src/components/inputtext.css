@@ -1,0 +1,8 @@
+input[type="text"] {
+  border: 1px solid black;
+}
+
+.btn {
+  margin-top: -131%;
+  margin-left: 103%;
+}
